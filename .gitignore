@@ -1,0 +1,26 @@
+# Intellij
+.idea
+*.iml
+
+# OSX
+._*
+.DS_STore
+
+#Py
+*.pyc
+
+#Emac
+*~
+\#*\#
+.\#*
+
+#Vim
+[._]*.s[a-w][a-z]
+[._].s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+credentials.json
+
+env
